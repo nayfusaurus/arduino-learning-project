@@ -14,6 +14,7 @@ Multiple personal projects around the use of Arduino devices and compatible sens
 <summary>1. Controlling LEDs</summary>
 <p>
   <a href="https://github.com/nayfusaurus/arduino-learning-project/tree/master/1.%20Controlling_LEDs">Project Link</a>
+  <br/>
   <img src="https://github.com/nayfusaurus/arduino-learning-project/blob/master/1.%20Controlling_LEDs/Controlling_LEDs_Demo.gif" alt="Demo of Controlling LEDs"> 
 </p>
 </details>
