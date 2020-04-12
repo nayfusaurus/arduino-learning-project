@@ -11,8 +11,11 @@ Multiple personal projects around the use of Arduino devices and compatible sens
 ### Projects
 
 <details>
-<summary>[1. Controlling LEDs](1. Controlling_LEDs/README.md)</summary>
-<p>![](1. Controlling_LEDs/Controlling_LEDs_Demo.gif)</p>
+<summary>1. Controlling LEDs</summary>
+<p>
+  [Project Link](1. Controlling_LEDs/README.md)
+  ![](1. Controlling_LEDs/Controlling_LEDs_Demo.gif)
+</p>
 </details>
 
 ## License
