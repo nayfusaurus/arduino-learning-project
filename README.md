@@ -13,8 +13,8 @@ Multiple personal projects around the use of Arduino devices and compatible sens
 <details>
 <summary>1. Controlling LEDs</summary>
 <p>
-  [Project Link](1. Controlling_LEDs/README.md)
-  ![](1. Controlling_LEDs/Controlling_LEDs_Demo.gif)
+  <a href="https://github.com/nayfusaurus/arduino-learning-project/tree/master/1.%20Controlling_LEDs">Project Link</a>
+  <img src="https://github.com/nayfusaurus/arduino-learning-project/blob/master/1.%20Controlling_LEDs/Controlling_LEDs_Demo.gif" alt="Demo of Controlling LEDs"> 
 </p>
 </details>
 
