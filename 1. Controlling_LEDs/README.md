@@ -10,7 +10,7 @@ By convention attach the cathode (short leg) of each of the LEDs to ground throu
 
 # Circuit Diagram
 
-
+![](Controlling_LEDs_Circuit_Diagram.png)
 
 ### Demo
 
