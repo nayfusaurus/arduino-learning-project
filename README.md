@@ -4,9 +4,9 @@ Multiple personal projects around the use of Arduino devices and compatible sens
 
 ### Prerequisites
 
-- Install [Arduino IDE](https://www.arduino.cc/)
-- Get [Arduino Starter Kit](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=1429)
-- Get [Additional Sensors](https://www.dx.com/p/arduno-37-in-1-sensor-module-kit-black-2016490.html)
+- Install [Arduino IDE](https://www.arduino.cc/){:target="_blank" rel="noopener"}
+- Get [Arduino Starter Kit](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=1429){:target="_blank" rel="noopener"}
+- Get [Additional Sensors](https://www.dx.com/p/arduno-37-in-1-sensor-module-kit-black-2016490.html){:target="_blank" rel="noopener"}
 
 ### Projects
 
