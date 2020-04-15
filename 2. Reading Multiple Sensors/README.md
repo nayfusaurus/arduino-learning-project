@@ -21,4 +21,4 @@ Made in [Tinkercad](https://www.tinkercad.com)
 ## Demo
 
 Navigating 
-![](1. Navigating LCD Pages.gif)
+<img src="1. Navigating LCD Pages.gif" width="100">
