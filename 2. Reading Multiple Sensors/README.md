@@ -2,7 +2,10 @@
 
 Sensors Used:
 1) DHT11 - Humidity & Temperature Sensor
-2) 
+2) KY-039 - Heartbeat Sensor
+3) KY-021 - Magnetic Reed Sensor
+4) KY-018 - Photo Resistor Sensor
+5) KY-036 - Metal Touch Sensor
 
 ## Notes
 
@@ -17,4 +20,5 @@ Made in [Tinkercad](https://www.tinkercad.com)
 
 ## Demo
 
-![](Using_Multiple_Sensors.gif)
+Navigating 
+![](1. Navigating LCD Pages.gif)
