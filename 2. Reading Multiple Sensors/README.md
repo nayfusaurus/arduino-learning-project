@@ -16,7 +16,7 @@ Install DHT11 Sensors Library & dependencies from Arduino's Library Manager, mor
 
 Made in [Tinkercad](https://www.tinkercad.com)
 
-<img src="" width="100">
+<img src="https://github.com/nayfusaurus/arduino-learning-project/blob/master/2.%20Reading%20Multiple%20Sensors/Reading%20Multiple%20Sensors%20Circuit%20Diagram.JPG" width="500">
 
 ## Demo
 
